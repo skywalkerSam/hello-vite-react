@@ -21,3 +21,7 @@ Then run the following commands:
 To Build the project:
 
     npm run build
+
+To deploy the project to [GitHub Pages](https://dev.to/rashidshamloo/deploying-vite-react-app-to-github-pages-35hf):
+
+    npm run deploy
