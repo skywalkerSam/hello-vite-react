@@ -4,6 +4,8 @@ Get started with Vite + React in just a few seconds!
 
     npm init vite@latest
 
+Or, Just run:
+
     npm init vite
 
 Enter the project name `hello-vite-react` & Navigate through the rest of the prompts and select the desired options...
